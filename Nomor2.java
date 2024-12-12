@@ -5,7 +5,6 @@ public class Nomor2 {
         Scanner input = new Scanner(System.in);
         int N = input.nextInt();
         /* Pekerjaan anda mulai dari sini */
-        
           static int[] hargaMenu = {35000, 45000, 20000, 15000};
     static ArrayList<Integer> keranjangBelanja = new ArrayList<>();
     static Map<String, Integer> menuMap = new HashMap<>();
