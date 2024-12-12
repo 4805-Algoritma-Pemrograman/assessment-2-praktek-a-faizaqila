@@ -5,6 +5,7 @@ public class Nomor1 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int N = input.nextInt();
+        
         /* Pekerjaan anda mulai dari sini */
         System.out.println("Angka ganjil dari 0 hingga " + n + " adalah:");
         for (int i = 1; i <= n; i += 2) {
